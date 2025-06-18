@@ -30,8 +30,8 @@ components:
       - linux
       - windows
   - name: job-scheduler
-    repository: https://github.com/opensearch-project/job-scheduler.git
-    ref: tags/3.0.0.0
+    repository: https://github.com/a-dubs/project/job-scheduler.git
+    ref: tags/a-dubs-v1.0
     platforms:
       - linux
       - windows
