@@ -31,7 +31,7 @@ components:
       - windows
   - name: job-scheduler
     repository: https://github.com/a-dubs/job-scheduler.git
-    ref: tags/a-dubs-v1.0
+    ref: tags/a-dubs-v1.1
     platforms:
       - linux
       - windows
